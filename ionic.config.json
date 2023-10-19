@@ -1,0 +1,7 @@
+{
+  "name": "BurmaPodcast.network",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
